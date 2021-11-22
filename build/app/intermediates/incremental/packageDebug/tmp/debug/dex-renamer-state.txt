@@ -1,0 +1,4 @@
+#Mon Nov 22 21:29:51 AST 2021
+base.0=/Users/lojainsaad/Desktop/Flutter/calculator/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
