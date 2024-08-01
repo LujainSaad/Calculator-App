@@ -2,8 +2,7 @@
 
  This app is a simple and intuitive calculator built using Flutter. It provides basic arithmetic operations and a user-friendly interface.
 
-
-![ezgif com-gif-maker-5](https://user-images.githubusercontent.com/79986157/154858609-4b15f010-897e-4e9e-b759-bc9fc0505755.gif)
+![154858609-4b15f010-897e-4e9e-b759-bc9fc0505755-ezgif com-resize](https://github.com/user-attachments/assets/e248192f-e1d3-4a4b-b805-f465832c4d6e)
 
 
 ### Features
